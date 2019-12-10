@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/build/CMakeFiles/glfw"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/build/CMakeFiles/glfw.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/build/CMakeFiles/glfw-complete.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-install.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-mkdir.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-download.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-update.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-patch.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-configure.rule"
+		},
+		{
+			"file" : "/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw"
+		],
+		"name" : "glfw"
+	}
+}

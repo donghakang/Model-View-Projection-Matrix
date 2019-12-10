@@ -1,0 +1,60 @@
+location, direction, up direction (0, 1, 0)
+- up key --> direction of the view
+- left right --> rotate in place around the camera. within up direction
+
+
+Part 2.
+
+Perspected projection.
+projection is identity -->
+
+Part 3.
+update size of the viewport.
+glfwSetWindowSizeCallback(window, window_resize_callback);
+
+void window_rsize_callback(GLFWwindow * window, int width, int height)
+
+
+
+
+
+1. determine an appropriate initial viewing postiion and orientation for a first-person walkthrough
+2. Viewing transformation matrix using the eye position, view direction and up direction (0, 1, 0)
+3. Define a suitable perspective projection matrix.
+4. Apply the viewing and perspective transforms in the vertex Shader
+  - update eye position,
+  - lookat direction, clockwise, counter clockwise
+5. Allow the user to interactively chagne the viewing direction and eye position.
+
+
+glEnable(GL_DEPTH_TEST) --> you are going to need depth buffer, enable the depth buffer.
+glClear(... | GL_DEPTH_BUFFER_BIT)
+
+
+allow to user global variable
+looking up/down
+
+
+
+
+
+in init()
+  V = [ux, uy, uz...] viewing matrix
+  u,v,n must be all unitvector ==> normalize
+
+
+uniform mat4 V;
+
+gl_Position = V*M*vertex_position;
+
+
+
+
+
+make sure that view direction vector will be [view dir_x]
+                                             [view dir_y]
+                                             [view dir_x]
+                                             [     0    ]
+
+
+P * V * M * vertex_position

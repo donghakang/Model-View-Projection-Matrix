@@ -1,0 +1,8 @@
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/include/GLFW/glfw3.h
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/include/GLFW/glfw3native.h
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/lib/cmake/glfw3/glfw3Config.cmake
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/lib/pkgconfig/glfw3.pc
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/install/lib/libglfw3.a

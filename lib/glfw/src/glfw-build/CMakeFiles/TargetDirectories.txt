@@ -1,0 +1,14 @@
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/install/local.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/rebuild_cache.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/edit_cache.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/install/strip.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/uninstall.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/install.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/CMakeFiles/list_install_components.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/install/local.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/install/strip.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/install.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/list_install_components.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/rebuild_cache.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/edit_cache.dir
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-build/src/CMakeFiles/glfw.dir

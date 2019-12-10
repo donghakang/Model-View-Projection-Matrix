@@ -1,0 +1,13 @@
+# Target labels
+ glfw
+# Source files and their labels
+/Users/donghakang/Desktop/Graphics/Assignment 2c/build/CMakeFiles/glfw
+/Users/donghakang/Desktop/Graphics/Assignment 2c/build/CMakeFiles/glfw.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/build/CMakeFiles/glfw-complete.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-install.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-mkdir.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-download.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-update.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-patch.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-configure.rule
+/Users/donghakang/Desktop/Graphics/Assignment 2c/lib/glfw/src/glfw-stamp/glfw-build.rule
